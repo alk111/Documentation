@@ -1,0 +1,57 @@
+phase 1 questions
+Linux User Management 
+
+How can you create a user without useradd command?
+What is the default permission on user's home directory?
+Explain each field of /etc/passwd
+If I delete a user, does it's home directory gets deleted? If not then what is the command to delete the home directory of user along with the user
+What is the command to view all the currently logged in users?
+How can you give a normal user all the root level privileges?
+How can you give sudo access to any user without asking him to provide passord every time he runs a command?
+
+Linux ssh 
+
+What is the default port & configuration file of SSH Server 
+How to change the default ssh port in Linux ?
+What is the difference between ssh & Telnet ?
+What is the use of scp command ?
+How to enable passwordless ssh authentication in Linux ?
+How to Copy the file “server.txt” from the local machine to a remote host using port 2751 in /opt folder.
+
+linux permissions and ownerships
+
+Will you be able to cd into a directory with only read permission?
+What is -R argument used for along with chmod command?
+Which exact command is used to see the permissions of a file in the Linux operating system?
+Which of the following command is used to change the permissions of a file?
+Which of the following command is used to change the group owner of a file?
+Which of the following command is used to change the owner of a file?
+
+linux Tar  archiving and links
+How to Create a tar Archive File in Linux
+How to Create tar.gz Archive File in Linux
+How to Untar tar Archive File in Linux
+How to Uncompress tar.gz Archive File in Linux
+How to List Content of tar Archive File in Linux
+
+linux CronJob
+What is a cron job?
+Can you give me some examples of real-world uses for cron jobs?
+Why would you use a cron job in certain situations over other alternatives like writing custom code to schedule tasks?
+If there are few crons configured for a particular user and its password gets expired, will the cron jobs continue to run?
+Where does the logs related to cron jobs are collected?
+
+linux process management?
+Types of Processes in Linux
+Types of Process States in Linux
+Whuch two commands available in Linux to track running processes.
+which command displays a list of processes that are running in real-time along with their memory and CPU usage.
+whuch commanf displays the currently-running processes.
+
+Apache webserver
+What do you mean by Apache Web Server?
+What is the port of HTTP and https of Apache?
+Where are the configuration directories of the Apache webserver?
+What do you mean by the log files of the Apache webserver?
+What do you mean by a virtual host is Apache?
+Explain the difference between location and Directory.
